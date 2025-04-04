@@ -35,8 +35,5 @@ python main.py
 - Use a different `.ttf` font file to match your handwriting style.
 - Adjust font size and positioning in `main.py` for better alignment.
 
-## License
 This project is open-source. Feel free to modify and share it!
-```
-
 Let me know if you need any refinements! 🚀
