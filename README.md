@@ -3,8 +3,6 @@ This project automates the creation of Instagram posts from handwritten literatu
 
 ---
 
-## **README.md**
-```markdown
 # Handwritten Instagram Post Generator
 
 This project automates the creation of Instagram posts featuring handwritten-style literature. It takes a user-provided text, renders it using a custom font, and overlays it onto a background image, generating visually appealing content for social media.
